@@ -12,3 +12,4 @@ architecture note without a "when not to use this" section is marketing.
 | [AI-last pipeline](ai-last-pipeline.md) | Cost per request; prompt-injection surface | A rules layer you must maintain |
 | [Bounded autonomous loop](bounded-autonomous-loop.md) | Safety of unattended iteration | Friction at every turn |
 | [Alerting on the fallback path](alert-on-the-fallback-path.md) | Detecting silent degradation | More alerts to keep honest |
+| [One small platform, many products](shared-platform-blueprint.md) | Operability of a portfolio; transferable lessons | Coupling to one cloud; a shared failure surface |
